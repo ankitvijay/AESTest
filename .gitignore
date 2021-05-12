@@ -1,5 +1,7 @@
 # Autosave files
 *~
+# rider
+.idea/
 
 # build
 [Oo]bj/
